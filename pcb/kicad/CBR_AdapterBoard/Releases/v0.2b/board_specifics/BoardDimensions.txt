@@ -1,0 +1,3 @@
+Length: 80.0 mm
+Width:  46.3 mm
+
