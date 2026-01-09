@@ -1,0 +1,15 @@
+BILL OF MATERIALS (BOM)
+----------------------
+
+For one motorcycle, you will need the following parts:
+
+- 2 x PCB boards
+
+- 12 x 4 way Molex connectors (Plug) - Digikey part No: 0462071004-ND
+- 12 x 4 way Molex connectors (Receptacle) - Digikey part No: WM13487-ND
+- 44 x rectangular connectors - Digikey part No: 0039000038
+
+- 44 x pins - Digikey part No: 5040-YJ1-17-0.52AU-ND
+
+Details are outlined in the spreadsheet found in this folder.
+
