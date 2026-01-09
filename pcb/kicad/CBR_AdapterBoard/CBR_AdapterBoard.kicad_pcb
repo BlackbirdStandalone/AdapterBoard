@@ -533,7 +533,7 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "Designed by Alex Kiaos - (v0.2a) - Jan 2026" (at 140.775 98.075) (layer "B.SilkS") (tstamp aaa9f824-2685-4d20-be50-1a0c03752c38)
-    (effects (font (size 1.2 1.2) (thickness 0.15)) (justify mirror))
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
   (gr_text "21" (at 174.825 74.345) (layer "B.SilkS") (tstamp b876c62e-8752-4c77-b8c8-5889f7fceec3)
     (effects (font (size 2.8 2.8) (thickness 0.3)) (justify mirror))
