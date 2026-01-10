@@ -9,6 +9,18 @@ This PCB design provides a means of conveniently interfacing with the existing 2
 
 This project has been designed in Kicad 6.0.11 under linux and is licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
 
-To see the harness wiring, please refer to the latest pdf at
-https://github.com/BlackbirdStandalone/Documentation/tree/main/wiring
+The directory structure of this project is as follows:
+
+<p id=directories>
+<img src="pcb/images/.directoryStructure.png" width="302">
+</p>
+
+
+
+## Relevant links
+
+### Wiring Harness
+To see the ECU pin-out details, refer to the latest pdf at:
+[Wiring Harness Pinout diagram](https://github.com/BlackbirdStandalone/Documentation/tree/main/wiring).
+
 
