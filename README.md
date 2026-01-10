@@ -16,7 +16,7 @@ Fitment to a motorcycle will require the construction of two PCB's. An example o
 ![Alt Text](pcb/images/Assembled_1.jpg)
 ![Alt Text](pcb/images/OnBike.jpg)
 
-Note: This project is in its infant stages, so does not discuss packaging or sealing of the boards from the elements. It is evolutionary in nature and will attempt to improve shortcomings over time as new ideas come to light.
+Note: This project is in its early stages, so does not discuss packaging or sealing of the boards from the elements at this stage. It is evolutionary in nature and will attempt to improve shortcomings over time as new ideas come to light.
 
 </BR>
 
@@ -31,6 +31,17 @@ The directory structure of this project is as follows:
 
 
 <table border="1">
+
+<tr> 
+<td width="20%">
+<strong><u>Directory</u></strong>
+</td>
+<td width="80%">
+<strong><u>Description</u></strong>
+</td>
+
+</tr>
+
 <tr>
 <td width="20%">
 BOM
@@ -65,8 +76,8 @@ kicad
 <td width="80%">
 The main kicad project folder.<br>
 This contains the project itself (uses kicad 6.0.11)</br>
-The main project is 'CBR_AdapterBoard.kicad_pro' found under /pcb/kicad/CBR_AdapterBoard.</br></br>
-Gerber files can be found as individual files under the 'gerbers' folder or as a single zipped file for uploading to a PCB house for manufacture.</br></br>
+The main project file is 'CBR_AdapterBoard.kicad_pro' found under</br>'/pcb/kicad/CBR_AdapterBoard'.</br></br>
+Gerber files can be found as a group of 9 individual files under the 'gerbers' folder or as a single zipped file for uploading to a PCB house for manufacture.</br></br>
 The 'CustomLibrary' folder contains the custom symbols and footprints used in the project.
 </td>
 
