@@ -85,6 +85,26 @@ The 'CustomLibrary' folder contains the custom symbols and footprints used in th
 
 </br>
 
+
+After cloning the repository and opening the project for the first time, you may need to set up the symbol and footprint library paths.
+
+To setup the symbols library, in the menu:<br>
+<pre><i>Preferences -> Manage Symbol Libraries</i><br>
+  Then in the 2nd tab under 'Project specific libraries' add the following:<br>
+Nickname: <b>Blackbird</b><br>
+Library Path: <b>${KIPRJMOD}/../CustomLibrary/symbols/Blackbird_symbols.kicad_sym</b><br>
+</pre>
+<br><br>
+
+To setup the footprint library, in the menu:<br>
+<pre><i>Preferences -> Manage Foorprint Libraries</i><br>
+  Then in the 2nd tab under 'Project specific libraries' add the following<br>
+Nickname: <b>Blackbird</b><br>
+Library Path: <b>${KIPRJMOD}/../CustomLibrary/footprints/</b><br>
+</pre>
+<br>
+
+
 ## Relevant links
 
 ### Wiring Harness
