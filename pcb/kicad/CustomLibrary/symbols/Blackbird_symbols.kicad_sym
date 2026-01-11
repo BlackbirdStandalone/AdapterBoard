@@ -6,7 +6,7 @@
     (property "Value" "AJK_Molex_22_Pin" (id 1) (at -2.54 22.86 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "AJK_MolexPin:AJK_Single_MolexPin" (id 2) (at -8.89 -31.75 0)
+    (property "Footprint" "Blackbird_Symbols:AJK_Single_MolexPin" (id 2) (at -8.89 -31.75 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/757570161?display=pdf" (id 3) (at 1.27 -35.56 0)
