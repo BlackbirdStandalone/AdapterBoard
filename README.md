@@ -20,7 +20,39 @@ Note: This project is in its early stages, so does not discuss packaging or seal
 
 </BR>
 
-This project has been designed in Kicad 6.0.11 under linux and is licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
+<table border="1">
+
+<tr> 
+<td width="20%">
+<strong><u>Current Revision</u></strong>
+</td>
+<td width="60%">
+<strong><u>Date</u></strong>
+</td>
+</td>
+<td width="20%">
+<strong><u>Author</u></strong>
+</td>
+</tr>
+
+<tr>
+<td width="20%">
+v0.2a
+</td>
+<td width="60%">
+Jan 2026
+</td>
+<td width="20%">
+Alex Kiaos
+</td>
+</tr>
+
+</table>
+
+</BR>
+
+This project has been designed in Kicad 6.0.11 under linux and is licensed under the TAPR Open Hardware License (www.tapr.org/OHL).</br></br>
+
 
 The directory structure of this project is as follows:
 
@@ -77,7 +109,7 @@ kicad
 The main kicad project folder.<br>
 This contains the project itself (uses kicad 6.0.11)</br>
 The main project file is 'CBR_AdapterBoard.kicad_pro' found under</br>'/pcb/kicad/CBR_AdapterBoard'.</br></br>
-Gerber files can be found as a group of 9 individual files under the 'gerbers' folder or as a single zipped file for uploading to a PCB house for manufacture.</br></br>
+Gerber files can be found as a group of 9 individual files under the 'gerbers' folder or as a single zipped file under the 'gerber_zipped' folder for uploading to a PCB house for manufacture.</br></br>
 The 'CustomLibrary' folder contains the custom symbols and footprints used in the project.
 </td>
 
@@ -97,7 +129,7 @@ Library Path: <b>${KIPRJMOD}/../CustomLibrary/symbols/Blackbird_symbols.kicad_sy
 <br><br>
 
 To setup the footprint library, in the menu:<br>
-<pre><i>Preferences -> Manage Foorprint Libraries</i><br>
+<pre><i>Preferences -> Manage Footprint Libraries</i><br>
   Then in the 2nd tab under 'Project specific libraries' add the following<br>
 Nickname: <b>Blackbird</b><br>
 Library Path: <b>${KIPRJMOD}/../CustomLibrary/footprints/</b><br>
