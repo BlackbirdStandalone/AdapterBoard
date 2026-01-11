@@ -1,15 +1,15 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "AJK_Molex_22_Pin" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "Blackbird_Keihin_22_Pin" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 3.175 16.7386 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "AJK_Molex_22_Pin" (id 1) (at -2.54 22.86 0)
+    (property "Value" "Blackbird_Keihin_22_Pin" (id 1) (at -2.54 22.86 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Blackbird_Symbols:AJK_Single_MolexPin" (id 2) (at -8.89 -31.75 0)
+    (property "Footprint" "Blackbird:Blackbird_22_pin_keihin" (id 2) (at -8.89 -31.75 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/757570161?display=pdf" (id 3) (at 1.27 -35.56 0)
+    (property "Datasheet" "" (id 3) (at 1.27 -35.56 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "ki_keywords" "757570161" (id 4) (at 0 0 0)
@@ -18,7 +18,7 @@
     (property "ki_fp_filters" "CONN_SD-75757-010_1X6_F11p20_MOL" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "AJK_Molex_22_Pin_1_1"
+    (symbol "Blackbird_Keihin_22_Pin_1_1"
       (polyline
         (pts
           (xy -17.78 -7.62)
@@ -140,7 +140,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "AJK_Molex_22_Pin_1_2"
+    (symbol "Blackbird_Keihin_22_Pin_1_2"
       (polyline
         (pts
           (xy 5.08 -15.24)
