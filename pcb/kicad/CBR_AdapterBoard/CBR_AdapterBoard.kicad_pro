@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CBR_ConnectorBoard.kicad_pro",
+    "filename": "CBR_AdapterBoard.kicad_pro",
     "version": 1
   },
   "net_settings": {
