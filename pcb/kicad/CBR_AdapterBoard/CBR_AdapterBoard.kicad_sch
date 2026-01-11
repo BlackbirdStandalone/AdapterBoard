@@ -632,17 +632,17 @@
         )
       )
     )
-    (symbol "AJK_SingleMolexPin:AJK_Molex_22_Pin" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
-      (property "Reference" "J7" (id 0) (at -22.479 0 0)
-        (effects (font (size 1.524 1.524)) (justify left))
+    (symbol "Blackbird:Blackbird_Keihin_22_Pin" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+      (property "Reference" "J" (id 0) (at 3.175 16.7386 0)
+        (effects (font (size 1.524 1.524)))
       )
-      (property "Value" "Keihin_22_Pin" (id 1) (at -8.763 0 0)
-        (effects (font (size 1.524 1.524)) (justify left))
+      (property "Value" "Blackbird_Keihin_22_Pin" (id 1) (at -2.54 22.86 0)
+        (effects (font (size 1.524 1.524)))
       )
-      (property "Footprint" "Blackbird:Blackbird_22_pin_keihin" (id 2) (at -3.81 -41.91 0)
+      (property "Footprint" "Blackbird:Blackbird_22_pin_keihin" (id 2) (at -8.89 -31.75 0)
         (effects (font (size 1.27 1.27) italic) hide)
       )
-      (property "Datasheet" "" (id 3) (at 6.35 -45.72 0)
+      (property "Datasheet" "" (id 3) (at 1.27 -35.56 0)
         (effects (font (size 1.27 1.27) italic) hide)
       )
       (property "ki_keywords" "757570161" (id 4) (at 0 0 0)
@@ -651,7 +651,7 @@
       (property "ki_fp_filters" "CONN_SD-75757-010_1X6_F11p20_MOL" (id 5) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "AJK_Molex_22_Pin_1_1"
+      (symbol "Blackbird_Keihin_22_Pin_1_1"
         (polyline
           (pts
             (xy -17.78 -7.62)
@@ -773,7 +773,7 @@
           (number "9" (effects (font (size 1.27 1.27))))
         )
       )
-      (symbol "AJK_Molex_22_Pin_1_2"
+      (symbol "Blackbird_Keihin_22_Pin_1_2"
         (polyline
           (pts
             (xy 5.08 -15.24)
@@ -1634,7 +1634,7 @@
     (pin "4" (uuid 22f41591-fd7c-466f-8a65-cdf8748d7650))
   )
 
-  (symbol (lib_id "AJK_SingleMolexPin:AJK_Molex_22_Pin") (at 144.78 101.6 0) (unit 1)
+  (symbol (lib_id "Blackbird:Blackbird_Keihin_22_Pin") (at 144.78 101.6 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a4784c3b-c2b6-4112-9818-881a29bf33ec)
     (property "Reference" "J7" (id 0) (at 122.301 101.6 0)
@@ -1643,10 +1643,10 @@
     (property "Value" "Keihin_22_Pin" (id 1) (at 136.017 101.6 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "Blackbird:Blackbird_22_pin_keihin" (id 2) (at 140.97 143.51 0)
+    (property "Footprint" "Blackbird:Blackbird_22_pin_keihin" (id 2) (at 135.89 133.35 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (property "Datasheet" "" (id 3) (at 151.13 147.32 0)
+    (property "Datasheet" "" (id 3) (at 146.05 137.16 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (pin "1" (uuid 9d22c71e-71a4-4d53-8d49-bf416f7cec99))
