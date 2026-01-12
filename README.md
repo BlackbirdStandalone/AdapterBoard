@@ -140,8 +140,7 @@ Library Path: <b>${KIPRJMOD}/../CustomLibrary/footprints/</b><br>
 # Relevant links
 
 ### PCBWay
-To visit the PCBWay project and/or place an [order]
-(https://www.pcbway.com/project/shareproject/Honda_CBR1100XX_Super_Blackbird_ECU_adapter_board_for_a_standalone_ECU_a730cd35.html).
+To visit the PCBWay project and/or place an [order](https://www.pcbway.com/project/shareproject/Honda_CBR1100XX_Super_Blackbird_ECU_adapter_board_for_a_standalone_ECU_a730cd35.html).
 
 
 ### Wiring Harness & Pinouts
