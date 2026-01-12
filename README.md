@@ -137,9 +137,14 @@ Library Path: <b>${KIPRJMOD}/../CustomLibrary/footprints/</b><br>
 <br>
 
 
-## Relevant links
+# Relevant links
 
-### Wiring Harness
+### PCBWay
+To visit the PCBWay project and/or place an [order]
+(https://www.pcbway.com/project/shareproject/Honda_CBR1100XX_Super_Blackbird_ECU_adapter_board_for_a_standalone_ECU_a730cd35.html).
+
+
+### Wiring Harness & Pinouts
 To see the ECU pin-out details, refer to the latest pdf file at:
 [Wiring Harness Pinout diagram](https://github.com/BlackbirdStandalone/Documentation/tree/main/wiring).
 
