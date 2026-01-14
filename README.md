@@ -46,7 +46,6 @@ The upper half of the board contains a series of 6 x 4-way Molex connectors. The
 <td width="60%">
 <strong><u>Date</u></strong>
 </td>
-</td>
 <td width="20%">
 <strong><u>Author</u></strong>
 </td>
