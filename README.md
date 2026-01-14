@@ -8,15 +8,28 @@ In my case, it is an Australian 2002 model.
 The OEM Keihin ECU contains two groups of 22 connector pins that mate with bikes wiring harness. The harness side contains the two connectors (black and light gray) that the ECU mates with. These 22-pin connectors are proprietary and are located underneath the seat at the rear of the motorcycle.
 
 This PCB design provides a means of conveniently interfacing with the existing 22-pin connector to your specific standalone ECU of choice without having to sever the existing wiring harness.
-A custom wiring harness can then be separately built to interface to the stand alone ECU via standard Molex connectors numbered at the top of the board.<br/> The benefit of such an interface board also allows you to revert to the original Keihin ECU if you so wish since it allows the bikes wiring harness to remain undisturbed.
-(Note: This will only be the case if the camshaft trigger wheel is also left undisturbed).
+A custom wiring harness can then be separately built to interface to the stand alone ECU via standard Molex connectors numbered at the top of the board.<br/> The benefit of such an interface board also allows you to revert to the original Keihin ECU if you so wish since it allows the bikes wiring harness to remain undisturbed.</BR>
+Note: This will only be the case if the camshaft 3-tooth trigger wheel is also left undisturbed.
 
 Fitment to a motorcycle will require the construction of two PCB's. An example of two completed boards are shown below together with its fitment to the existing wiring harness in place of the Keihin ECU.
 
 ![Alt Text](pcb/images/Assembled_1.jpg)
 ![Alt Text](pcb/images/OnBike.jpg)
+![Alt Text](pcb/images/ECU_ShortHarness_2.jpg)
+![Alt Text](pcb/images/KeihinHarnessSide.jpg)
 
 Note: This project is in its early stages, so does not discuss packaging or sealing of the boards from the elements at this stage. It is evolutionary in nature and will attempt to improve shortcomings over time as new ideas come to light.
+
+</BR>
+## Extra Notes
+As of this current version (v0.2a), the 22 x round gold-plated pin connectors on the lower half of the board are the closest match I could find as a replacement to the stock Keihin pins.</br>
+The stock Keihin pins are 1.0mm wide and 0.7mm tall, therefore a rectangular pin. The replacement I have used is a 1.0mm round style pin. It fits into the harness side very snug. The search for a perfect pin match will continue for future boards revisions.
+
+The last picture displays the Honda/Keihin side of the main bikes wiring harness. It is important that the receptacle (receiver side) is correctly mated with the pins on the PCB since it is easy to mis-align. The area of entry is shown in red. Therefore care must be taken with the pin alignment as the boards are plugged into the black and gray harness side connectors on the bike. The connection will be on the tight side due to the 1.0mm round pins, but they will work.
+
+The pin spacings on the Keihin 22-way connector are 8.5mm in the vertical and 5.8mm horizontally.
+
+The upper half of the board contains a series of 6 x 4-way Molex connectors. The connectors are part of the 'Mini Fit Jnr' family of Molex connectors. The example shown above uses automotive 20 AWG wire. The choice to use many smaller connectors rather than a single 24 way connector was mainly due to stock availability. The 4-way connectors are very common.
 
 </BR>
 
