@@ -21,7 +21,9 @@ Fitment to a motorcycle will require the construction of two PCB's. An example o
 Note: This project is in its early stages, so does not discuss packaging or sealing of the boards from the elements at this stage. It is evolutionary in nature and will attempt to improve shortcomings over time as new ideas come to light.
 
 </BR>
-## Extra Notes
+
+
+### Extra Notes
 As of this current version (v0.2a), the 22 x round gold-plated pin connectors on the lower half of the board are the closest match I could find as a replacement to the stock Keihin pins.</br>
 The stock Keihin pins are 1.0mm wide and 0.7mm tall, therefore a rectangular pin. The replacement I have used is a 1.0mm round style pin. It fits into the harness side very snug. The search for a perfect pin match will continue for future boards revisions.
 
