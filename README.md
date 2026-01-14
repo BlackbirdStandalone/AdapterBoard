@@ -35,6 +35,8 @@ The upper half of the board contains a series of 6 x 4-way Molex connectors. The
 
 </BR>
 
+### Project Details
+
 <table border="1">
 
 <tr> 
